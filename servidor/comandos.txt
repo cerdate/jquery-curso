@@ -1,0 +1,5 @@
+npm init -y
+npm install express ou express@4.17.1
+npm install cors ou cors@2.8.5
+npm install nedb ou @1.8.0
+
